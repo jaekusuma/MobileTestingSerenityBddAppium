@@ -4,7 +4,6 @@ import io.appium.java_client.MobileBy;
 
 public class calculatorPage extends basePage {
     int firstNumber, secondNumber;
-    String realResult = "Hasil : " + (firstNumber + secondNumber);
     public boolean isResultTextIsDisplayes(){
         return find(MobileBy.id("tv_result")).isDisplayed();
     }

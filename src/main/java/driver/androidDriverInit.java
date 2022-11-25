@@ -24,7 +24,6 @@ public class androidDriverInit {
             androidDriver = new AndroidDriver<>(new URL(URL_APPIUM), capabilities);
             androidDriver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
         } catch (Exception ignored) {
-
         }
     }
     public static void quit() {

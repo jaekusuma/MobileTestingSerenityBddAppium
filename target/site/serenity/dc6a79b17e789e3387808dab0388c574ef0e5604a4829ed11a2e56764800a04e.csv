@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Scrolling menu","Scroll list with pointer","SUCCESS","2022-11-25T23:10:53.871697+07:00[Asia/Jakarta]","0.0","24.77"
+"Scrolling menu","Scroll list until text showed","SUCCESS","2022-11-25T23:11:18.648151+07:00[Asia/Jakarta]","0.0","59.74"
+"Scrolling menu","Longpress on list menu","SUCCESS","2022-11-25T23:12:18.395591+07:00[Asia/Jakarta]","0.0","27.13"
+"Scrolling menu","Multiple tap on single list menu","SUCCESS","2022-11-25T23:12:45.531976+07:00[Asia/Jakarta]","0.0","29.07"
+"Scrolling menu","Multiple tap in random list menu","SUCCESS","2022-11-25T23:13:14.603801+07:00[Asia/Jakarta]","0.0","31.98"

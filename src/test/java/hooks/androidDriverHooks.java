@@ -20,9 +20,7 @@ public class androidDriverHooks {
     }
 
     @After
-    public void quitWebDriver(Scenario scenario) {
-        scenario.attach(((TakesScreenshot) androidDriverInit.getAndroidDriver())
-                .getScreenshotAs(OutputType.BYTES), "image/png", "evidence-test");
+    public void quitWebDriver() {
         androidDriverInit.quit();
     }
 }

@@ -5,8 +5,7 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
         stepNotifications = true,
-        features = "src/test/resources/features",
-        tags = "@calculator"
+        features = "src/test/resources/features"
 )
 public class serenityRunner {
 }

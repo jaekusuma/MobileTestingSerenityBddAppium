@@ -1,0 +1,7 @@
+properties/propertiesReader.class
+properties/propertiesData.class
+pages/calculatorPage.class
+driver/androidDriverInit.class
+pages/listMenuPage.class
+pages/basePage.class
+pages/loginPage.class

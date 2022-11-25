@@ -1,7 +1,6 @@
 package properties;
 
 import org.yaml.snakeyaml.Yaml;
-
 import java.io.InputStream;
 
 public class propertiesReader {
