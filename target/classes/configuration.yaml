@@ -1,9 +1,0 @@
-!!properties.propertiesData
-appiumProperties:
-  platformName: ANDROID
-  deviceName: Android
-  udid: BH920XF0GM
-  app: /home/jae/Documents/android testing/app-debug_v.1.0.apk
-  automationName: UIAutomator2
-  newCommandTimeout: 120
-  autoGrantPermissions: true
